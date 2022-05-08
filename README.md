@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my place 👋 
+Welcome to my place!
+I'm Yuli Kim, you can call me Edes kim.
+Front end developer from Korea:kr: but I'm looking for a job in Canada:canada:!
+
+### This I code with 
+/github/labels/:user/:repo/:javascript
+/github/labels/:user/:repo/:react
+/github/labels/:user/:repo/:angular
+/github/labels/:user/:repo/:mySQL
 
 <!--
 **ykim232/ykim232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

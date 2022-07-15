@@ -4,7 +4,7 @@ I'm Yuli Kim, you can call me Edes kim.
 Front end developer from Korea but I'm looking for a job in Canada!
 
 ### This I code with 
-```
+```js
 const Yuli_Kim = {
 	Studnet_Num: 160437174,
 	Email: edes0830@gmail.com,

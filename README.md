@@ -4,6 +4,17 @@ I'm Yuli Kim, you can call me Edes kim.
 Front end developer from Korea but I'm looking for a job in Canada!
 
 ### This I code with 
+const Yuli_Kim = {
+	Studnet_Num: 160437174,
+	Email: edes0830@gmail.com,
+	Skills: {
+		Programming: ["JS", "C/C++", "SQL", "HTML","CSS"],
+		Web_Development: ["NodeJS", "Express", "React", "Angular"],
+		Mobile: ["Android"],
+		Database: ["PostgreSQL", "MySQL", "MongoDB", "Oracle"],
+		Others: ["Git", "Notion", "MS Project", "Visual Paradigm"]
+	}
+}
 
 <!--
 **ykim232/ykim232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
